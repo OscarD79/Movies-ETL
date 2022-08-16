@@ -20,7 +20,7 @@ The Movies List
 
 The Ratings List
 
-![ratings.png](./Resources/ratings.png)
+![ratings_query.png](./Resources/ratings_query.png)
 
 ## Python via Jupyter Notebook
 
